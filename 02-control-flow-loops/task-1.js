@@ -1,4 +1,4 @@
-var result, a=2, b=3;
+var result, a=1, b=2;
 
 result=a+b < 4 ? true : false;
 

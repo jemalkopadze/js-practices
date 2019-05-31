@@ -1,4 +1,4 @@
-var val = 'c';
+let val = 'c';
 if (val == 'a'){
     console.log( 'a' );
 }

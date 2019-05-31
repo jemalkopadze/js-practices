@@ -1,4 +1,4 @@
-var f = function(number) {
+let f = function(number) {
     if (typeof number  === 'number'){
         return number * number * number;
     }

@@ -1,4 +1,4 @@
-let message, login = '';
+let message, login = 'asdfasd';
 
 message = login =='Pitter' ? message = 'Hi':
 login == 'Owner' ? message = 'Hello':
